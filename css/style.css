@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet
+}
+
+h1 {
+    color: rgb(179, 246, 8);
+    text-align: center;
+}
+
+.lenker {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
